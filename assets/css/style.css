@@ -135,9 +135,9 @@ ol {
 }
 
 .set-bg {
-	background-repeat: no-repeat;
+  height: 40vh;
+  background: url("assets/img/banner/banner-3.jpg") no-repeat center;
 	background-size: cover;
-	background-position: top center;
 }
 
 .spad {
